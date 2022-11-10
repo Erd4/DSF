@@ -1,0 +1,5 @@
+Alpha Vantage Support API: 
+FQ95R26R3BO1SAW8
+
+OpenWeather API:
+24798b67b61dd07e313e7abe758d6e00
